@@ -1,0 +1,4 @@
+c:\users\pedri\onedrive\documents\visual studio 2015\Projects\LibraryCantinaEscolar\LibraryCantinaEscolar\bin\Debug\LibraryCantinaEscolar.dll
+c:\users\pedri\onedrive\documents\visual studio 2015\Projects\LibraryCantinaEscolar\LibraryCantinaEscolar\bin\Debug\LibraryCantinaEscolar.pdb
+c:\users\pedri\onedrive\documents\visual studio 2015\Projects\LibraryCantinaEscolar\LibraryCantinaEscolar\obj\Debug\LibraryCantinaEscolar.dll
+c:\users\pedri\onedrive\documents\visual studio 2015\Projects\LibraryCantinaEscolar\LibraryCantinaEscolar\obj\Debug\LibraryCantinaEscolar.pdb
